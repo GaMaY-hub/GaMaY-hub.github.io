@@ -1,0 +1,16 @@
+name: Melanie Baljko
+bio: my bio
+avatar: ./avatar.png
+
+site:
+  title: "Melanie Baljko | About"
+  base_url: "https://mbaljko.github.io"
+
+links:
+  - name: GitHub
+    icon: github
+    url: https://mbaljko.github.io
+
+# Optional extras
+location: Toronto, Canada
+theme:
