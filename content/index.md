@@ -3,7 +3,7 @@ title: GaMaY Hub
 ---
 ![Image of GaMaY Icon that is an abstracted cluster of grapes with digital elements](assets/GaMaY_512x380.png)
 The **Graphics and Media at York (GaMaY) Hub** is the site of the conjoined research labs and research activities that span Human-Computer Interaction, Computer Graphics, Visual Computing and Immersive Technologies.
-The GaMaY Hub is located in the Lassonde Research Centre at York University. Here's how to [visit-us](visit-us.md).
+The GaMaY Hub is located in the Lassonde Research Centre, in the [Department of Electrical Engineering and Computer Science](https://lassonde.yorku.ca/eecs/) in the [Lassonde School of Engineering](https://lassonde.yorku.ca/) at [York University](https://www.yorku.ca/). Here's how to [visit-us](visit-us.md).
 ## Faculty members:
 - [Melanie Baljko](https://lassonde.yorku.ca/users/mb)
 - [Petros Faloutsos](https://lassonde.yorku.ca/users/pfal)
