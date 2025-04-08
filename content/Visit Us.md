@@ -1,5 +1,5 @@
 ---
-title: Visiting the GaMaY Hub title
+title: Visit Us
 tags:
 ---
 # Visiting the GaMaY Hub
