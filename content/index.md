@@ -1,9 +1,9 @@
 ---
 title: GaMaY Hub
 ---
-![](assets/GaMaY_512x380.png)
+![Image of GaMaY Icon that is an abstracted cluster of grapes with digital elements](assets/GaMaY_512x380.png)
 The **Graphics and Media at York (GaMaY) Hub** is the site of the conjoined research labs and research activities that span Human-Computer Interaction, Computer Graphics, Visual Computing and Immersive Technologies.
-The GaMaY Hub is located in the Lassonde Research Centre at 4751 Keele Street.
+The GaMaY Hub is located in the Lassonde Research Centre at York University. Here's how to [visit-us](visit-us.md).
 ## Faculty members:
 - [Melanie Baljko](https://lassonde.yorku.ca/users/mb)
 - [Petros Faloutsos](https://lassonde.yorku.ca/users/pfal)
@@ -13,7 +13,7 @@ The GaMaY Hub is located in the Lassonde Research Centre at 4751 Keele Street.
 - [James Smith](https://lassonde.yorku.ca/users/drsmith/)
 - [Vassilios Tzerpos](https://lassonde.yorku.ca/users/bil/)
 ## Research Labs:
-- [Practises in Enabling Technologies Lab]([https://piet.apps01.yorku.ca/](https://piet.apps01.yorku.ca/ "https://piet.apps01.yorku.ca/"))
+- [Practises in Enabling Technologies Lab](https://piet.apps01.yorku.ca/)
 - [Computer Graphics Lab @ GaMaY](https://lassonde.yorku.ca/users/pfal)
 - [Audio Processing Techniques Lab at York (APTLY)](https://bil.eecs.yorku.ca/aptly-lab/)
 - [**La**b for **S**ocially-aware **Soft**ware **E**ngineering (LaSSoftE)](https://bil.eecs.yorku.ca/lassofte/)
