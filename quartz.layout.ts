@@ -17,11 +17,12 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs() //,
-// MB: allow breadcrumb even on landing page
-//      condition: (page) => page.fileData.slug !== "index",
-    }),
+    // MB: allow breadcrumb even on landing page, pull out from conditional render	  
+    Component.Breadcrumbs(),
+    //Component.ConditionalRender({
+    //  component: Component.Breadcrumbs(),
+    //  condition: (page) => page.fileData.slug !== "index",
+    //}),
     Component.ArticleTitle(),
     //MB: commented out the following line, this is the date and reading time line
     //Component.ContentMeta(),
