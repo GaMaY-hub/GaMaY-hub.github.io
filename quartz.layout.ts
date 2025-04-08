@@ -22,7 +22,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    //MB: commented out the following line, this is the date and reading time line
+    //Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
