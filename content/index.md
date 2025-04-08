@@ -21,7 +21,7 @@ The GaMaY Hub is located in the Lassonde Research Centre (LRC), in the [Departme
 - [Engineering Education Sandbox](https://www.yorku.ca/professor/drsmith/)
 - [Immersive Computing Lab @ GaMaY](https://lassonde.yorku.ca/users/mkyan)
 - [**La**b for **S**ocially-aware **Soft**ware **E**ngineering (LaSSoftE)](https://bil.eecs.yorku.ca/lassofte/)
-- [Practices in Enabling Technologies Lab](https://piet.apps01.yorku.ca/)
+- [Practices in Enabling Technologies Lab (PiET)](https://piet.apps01.yorku.ca/)
 - [Practical Privacy Lab @ GaMaY](https://lassonde.yorku.ca/users/smaqsood)
 - [Persuasive Design Lab @ GaMaY](https://lassonde.yorku.ca/users/koyibo)
 ## Research Facilities:
