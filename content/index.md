@@ -1,24 +1,31 @@
 ---
-title: Melanie Baljko
+title: GaMaY Hub
 ---
-# Overview
+![](assets/GaMaY_512x380.png)
+The **Graphics and Media at York (GaMaY) Hub** is the site of the conjoined research labs and research activities that span Human-Computer Interaction, Computer Graphics, Visual Computing and Immersive Technologies.
+The GaMaY Hub is located in the Lassonde Research Centre at 4751 Keele Street.
+## Faculty members:
+- [Melanie Baljko](https://lassonde.yorku.ca/users/mb)
+- [Petros Faloutsos](https://lassonde.yorku.ca/users/pfal)
+- [Matt Kyan](https://lassonde.yorku.ca/users/mkyan)
+- [Sana Maqsood](https://lassonde.yorku.ca/users/smaqsood)
+- [Kiemute Oyibo](https://lassonde.yorku.ca/users/koyibo/)
+- [James Smith](https://lassonde.yorku.ca/users/drsmith/)
+- [Vassilios Tzerpos](https://lassonde.yorku.ca/users/bil/)
+## Research Labs:
+- [Practises in Enabling Technologies Lab]([https://piet.apps01.yorku.ca/](https://piet.apps01.yorku.ca/ "https://piet.apps01.yorku.ca/"))
+- [Computer Graphics Lab @ GaMaY](https://lassonde.yorku.ca/users/pfal)
+- [Audio Processing Techniques Lab at York (APTLY)](https://bil.eecs.yorku.ca/aptly-lab/)
+- [**La**b for **S**ocially-aware **Soft**ware **E**ngineering (LaSSoftE)](https://bil.eecs.yorku.ca/lassofte/)
+- [Practical Privacy Lab @ GaMaY](https://lassonde.yorku.ca/users/smaqsood)
+- [Persuasive Design Lab @ GaMaY](https://lassonde.yorku.ca/users/koyibo)
 
-> [!QUOTE]
-> *“Technology is neither good nor bad; nor is it neutral.”*  
-> Kranzberg's First Law of Technology
-
-I am an Associate Professor in [Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/)  at the  [Lassonde School of Engineering](http://lassonde.yorku.ca/)  at  [York University](http://www.yorku.ca) where I lead the [Practices in Enabling Technologies (PiET) Lab](https://piet.apps01.yorku.ca/).  I am a full member of the graduate programs in [Science & Technology Studies](http://sts.gradstudies.yorku.ca/), [Critical Disability Studies](http://cds.gradstudies.yorku.ca/), [Digital Media](http://digitalmedia.gradstudies.yorku.ca/), and [Interdisciplinary Studies](http://interdis.gradstudies.yorku.ca/).  
-Here is my [[Brief Personal History]] prior to my faculty appointment. 
-### Here are some other sources about me and my activities:  
-[Research](Research.md) || [Teaching and Learning](Teaching%20and%20Learning.md)
-
- [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0002-6205-1132](https://orcid.org/0000-0002-6205-1132)  
- 
-[https://discover.academics.yorku.ca/Melanie.Baljko](https://discover.academics.yorku.ca/Melanie.Baljko)  
-
-[Melanie Baljko | York Experts Guide](http://news.yorku.ca/experts/?name_or_keyword=baljko&research_area=&submit=Search+the+Guide&search=Y)  
-
-[Melanie Baljko | LinkedIn](https://www.linkedin.com/in/melanie-baljko-2b22314/)  
-
-[https://www.zotero.org/mbaljko/](https://www.zotero.org/mbaljko/)
-
+## Research Facilities:
+The GaMaY Hub features a set of research facilities that are used collectively by the labs and the hub researchers.
+- Maker Space and RtD Space (LRC135)
+- Dirty/Messy Workroom (Materials Processing and Fabrication) (LRC142)
+- Usability Studies Lab (LRC128)
+- Co-Design Space![](assets/GaMaY_512x512.png) (LRC157)
+- XR Design and Interaction Space (LRC139)
+- Computer Graphics Labratory (LRC139)
+- Acoustic Data Acquisition (ADA) Suite (LRC130) 
