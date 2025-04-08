@@ -1,5 +1,5 @@
 ---
-title: GaMaY Hub
+title: The Graphics and Media at York (GaMaY) Hub
 ---
 <p align="center">
   <img src="assets/GaMaY_512x380.png" alt="Image of GaMaY Icon that is an abstracted cluster of grapes with digital elements" width="300">
