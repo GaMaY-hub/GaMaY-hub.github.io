@@ -17,14 +17,14 @@ The GaMaY Hub is located in the Lassonde Research Centre (LRC), in the [Departme
 - [James Smith](https://lassonde.yorku.ca/users/drsmith/)
 - [Vassilios Tzerpos](https://lassonde.yorku.ca/users/bil/)
 ## Research Labs and Initiatives:
-- [Audio Processing Techniques Lab at York (APTLY)](hub-entities/aptly.md)
-- [Computer Graphics Lab @ GaMaY](https://lassonde.yorku.ca/users/pfal)
-- [Engineering Education Sandbox](https://www.yorku.ca/professor/drsmith/)
-- [Immersive Computing Lab @ GaMaY](https://lassonde.yorku.ca/users/mkyan)
+- [Audio Processing Techniques Lab at York (APTLY)](hub-entities/APTLY.md)
+- [Computer Graphics Lab @ GaMaY](hub-entities/Computer%20Graphics.md)
+- [Engineering Education Sandbox](hub-entities/Engineering%20Education%20Sandbox.md)
+- [Immersive Computing Lab @ GaMaY](hub-entities/Immersive%20Computing.md)
 - [**La**b for **S**ocially-aware **Soft**ware **E**ngineering (LaSSoftE)](https://bil.eecs.yorku.ca/lassofte/)
-- [Practices in Enabling Technologies Lab (PiET)](https://piet.apps01.yorku.ca/)
-- [Practical Privacy Lab @ GaMaY](https://lassonde.yorku.ca/users/smaqsood)
-- [Persuasive Design Lab @ GaMaY](https://lassonde.yorku.ca/users/koyibo)
+- [Practices in Enabling Technologies Lab (PiET)](hub-entities/PiET.md)
+- [Practical Privacy Lab @ GaMaY](hub-entities/Practical%20Privacy%20Lab.md)
+- [Persuasive Design Lab @ GaMaY](hub-entities/Persuasive%20Design.md)
 ## Research Facilities:
 The GaMaY Hub features a set of research facilities within the Lassonde Research Centre (LRC) that are used collectively by the labs and the hub researchers.
 - Maker/Prototyping Space (LRC135)
