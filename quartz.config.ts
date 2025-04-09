@@ -4,7 +4,6 @@ import { defineConfig } from "@quartz/config" /* MB: I added this, following ins
 
 /** MB: I added these lines to package.json, to get this custom css to work
     "@quartz/core": "4.5.0",                                                            
-    "@quartz/config": "4.5.0", 
 **/
 
 /**
