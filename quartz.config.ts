@@ -1,9 +1,9 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import { defineConfig } from "@quartz/config" /* MB: I added this, following instructions */
+/*import { defineConfig } from "@quartz/config"*/ /* MB: I added this, following instructions */
 
 /** MB: I added these lines to package.json, to get this custom css to work
-    "@quartz/core": "4.5.0",                                                            
+    nothing added
 **/
 
 /**
@@ -99,5 +99,7 @@ const config: QuartzConfig = {
   },
 }
 
-export default defineConfig(config)
+export default config
+
+/*export default defineConfig(config)*/
 
