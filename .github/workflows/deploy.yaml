@@ -28,6 +28,8 @@ jobs:
           node-version: '22'
       - name: Install Dependencies
         run: npm ci
+      - name: Clear Quartz build cache
+        run: rm -rf .quartz/.quartz-cache
       - name: Build Quartz Site
         run: npx quartz build
       - name: Upload artifact for GitHub Pages
