@@ -20,8 +20,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-/* I am using Quartz source mode, not as a package dependency, so the css setting should reference paths relative to the build root, not necessarily the repo root. And if this doesn't work, test by placing custom.css into static*/
-    css: ["quartz/styles/custom.css"],
+/* put custom.css in static does this work?*/
+    css: ["/custom.css"],
     locale: "en-US",
     baseUrl: "https://gamay-hub.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
