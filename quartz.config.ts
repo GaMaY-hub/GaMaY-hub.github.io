@@ -1,13 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import { defineConfig } from "./lib"
-
-export default defineConfig({
-  // your existing config...
-  css: ["styles/custom.css"],
-})
-
-
+import { defineConfig } from "@quartz/config" /* MB: I added this, following instructions */
 
 /**
  * Quartz 4 Configuration
@@ -101,4 +94,9 @@ const config: QuartzConfig = {
   },
 }
 
-export default config
+/*export default config */
+
+export default defineConfig({
+  // your existing config...
+  css: ["styles/custom.css"],
+})
