@@ -2,6 +2,11 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { defineConfig } from "@quartz/config" /* MB: I added this, following instructions */
 
+/** MB: I added these lines to package.json, to get this custom css to work
+    "@quartz/core": "4.5.0",                                                            
+    "@quartz/config": "4.5.0", 
+**/
+
 /**
  * Quartz 4 Configuration
  *
