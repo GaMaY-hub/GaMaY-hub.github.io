@@ -67,7 +67,6 @@
     "preact-render-to-string": "^6.5.13",
     "pretty-bytes": "^6.1.1",
     "pretty-time": "^1.1.0",
-    "_hackyComment": "MB: added these two lines below trying to get custom css working",
     "@quartz/core": "4.5.0",
     "@quartz/config": "4.5.0",
     "reading-time": "^1.5.0",
