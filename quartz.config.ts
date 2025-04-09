@@ -16,6 +16,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    css: ["styles/custom.css"],
     locale: "en-US",
     baseUrl: "https://gamay-hub.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -94,9 +95,5 @@ const config: QuartzConfig = {
   },
 }
 
-/*export default config */
+export default config
 
-export default defineConfig({
-  // your existing config...
-  css: ["styles/custom.css"],
-})
