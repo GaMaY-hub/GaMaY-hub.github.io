@@ -1,5 +1,4 @@
 ---
 title: Persuasive Design Lab
 ---
-
-[Persuasive Design Lab @ GaMaY](https://lassonde.yorku.ca/users/koyibo)
+This lab is led by Professor Kiemute Oyibo: [Persuasive Design Lab @ GaMaY](https://lassonde.yorku.ca/users/koyibo)
