@@ -16,7 +16,7 @@ The GaMaY Hub is located in the Lassonde Research Centre (LRC), in the [Departme
 - [James Smith](https://lassonde.yorku.ca/users/drsmith/)
 - [Vassilios Tzerpos](https://lassonde.yorku.ca/users/bil/)
 ## Research Labs:
-- [Audio Processing Techniques Lab at York (APTLY)](https://bil.eecs.yorku.ca/aptly-lab/) 
+- [Audio Processing Techniques Lab at York (APTLY)]((hub-entities/aptly.md)
 - [Computer Graphics Lab @ GaMaY](https://lassonde.yorku.ca/users/pfal)
 - [Engineering Education Sandbox](https://www.yorku.ca/professor/drsmith/)
 - [Immersive Computing Lab @ GaMaY](https://lassonde.yorku.ca/users/mkyan)
