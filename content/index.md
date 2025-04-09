@@ -1,6 +1,7 @@
 ---
 title: The Graphics and Media at York (GaMaY) Hub
 ---
+
 <p align="center">
   <img src="assets/GaMaY_512x380.png" alt="Image of GaMaY Icon that is an abstracted cluster of grapes with digital elements" width="300">
 </p>
@@ -15,7 +16,7 @@ The GaMaY Hub is located in the Lassonde Research Centre (LRC), in the [Departme
 - [Kiemute Oyibo](https://lassonde.yorku.ca/users/koyibo/)
 - [James Smith](https://lassonde.yorku.ca/users/drsmith/)
 - [Vassilios Tzerpos](https://lassonde.yorku.ca/users/bil/)
-## Research Labs:
+## Research Labs and Initiatives:
 - [Audio Processing Techniques Lab at York (APTLY)](hub-entities/aptly.md)
 - [Computer Graphics Lab @ GaMaY](https://lassonde.yorku.ca/users/pfal)
 - [Engineering Education Sandbox](https://www.yorku.ca/professor/drsmith/)
