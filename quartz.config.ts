@@ -1,5 +1,13 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { defineConfig } from "./lib"
+
+export default defineConfig({
+  // your existing config...
+  css: ["styles/custom.css"],
+})
+
+
 
 /**
  * Quartz 4 Configuration
@@ -29,8 +37,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-/* MB: change from #faf8f8 to pure white background:#ffffff */
-          light: "#ffffff",
+          light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
