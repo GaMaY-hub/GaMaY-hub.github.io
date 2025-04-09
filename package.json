@@ -69,7 +69,7 @@
     "pretty-time": "^1.1.0",
     "_hackyComment": "MB: added these two lines below trying to get custom css working",
     "@quartz/core": "4.5.0",
-    "@quartz/config": "4.5.0"
+    "@quartz/config": "4.5.0",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-citation": "^2.2.2",
