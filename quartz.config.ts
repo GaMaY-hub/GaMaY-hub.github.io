@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
 /* put custom.css in static does this work?*/
-    css: ["/custom.css"],
+    customCss: ["styles/custom.css"],
     locale: "en-US",
     baseUrl: "https://gamay-hub.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
