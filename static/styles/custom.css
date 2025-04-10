@@ -1,6 +1,6 @@
 /* === Light mode === */
 html[data-theme='light'] {
-  --background: #ffffff;            /* Page background */
+  --background: #ff6f61;            /* Page background */
   --foreground: #333333;            /* Main text color */
   --muted: #666666;                 /* Muted text (like metadata) */
   --accent: #ff6f61;                /* Link and accent color */
