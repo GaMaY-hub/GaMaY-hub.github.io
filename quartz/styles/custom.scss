@@ -1,5 +1,5 @@
 @use "./base.scss";
-.page-list time,
-.page-list .timestamp {
+/* Hide timestamps on folder pages */
+.folder-page time {
   display: none;
 }
