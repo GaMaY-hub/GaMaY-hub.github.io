@@ -18,6 +18,7 @@ import * as Plugin from "./quartz/plugins"
       likely with a custom pipeline from the starter template I used. In scaffolded (opinionated) Quartz installs, there is an internal pipeline that may
       expect your styles/base.scss to always be valid because your theme.css is not entirely coming from Quartz defaults. 
       even if you remove customCss from your config, your Quartz build is already hardwired to include your custom styles as part of the theme pipeline.
+      I am not just adding custom styles, my base.scss is part of the main build in my scaffolded project.
       */
 
 const config: QuartzConfig = {
@@ -34,7 +35,6 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      customCss: "styles/custom.scss",
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
