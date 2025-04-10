@@ -39,8 +39,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Baloo 2", /* MB: prev: Schibsted Grotesk */
-        body: "Work Sans",  /* MB: prev: Source Sans Pro */
+        header: "Work Sans", /* MB: prev: Schibsted Grotesk */
+        body: "Nunito",  /* MB: prev: Source Sans Pro */
         code: "IBM Plex Mono",
       },
       colors: {
