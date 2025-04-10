@@ -3,7 +3,7 @@
 // put your custom CSS here!
 /* === Light mode === */
 html[data-theme='light'] {
-    --background: #fffff;            /* Page background */
+    --background: #ffffff;            /* Page background */
     --foreground: #333333;            /* Main text color */
     --muted: #666666;                 /* Muted text (like metadata) */
     --accent: #ff6f61;                /* Link and accent color */
@@ -12,7 +12,7 @@ html[data-theme='light'] {
     --quote: #fdf6e3;                 /* Blockquote background */
     --inline-code: #fff4e6;           /* Inline code background */
     --code-background: #f6f6f6;       /* Code block background */
-    --card: #f30cb6;                  /* Card / container background */
+    --card: #ffffff;                  /* Card / container background */
   }
   
   /* === Dark mode === */
