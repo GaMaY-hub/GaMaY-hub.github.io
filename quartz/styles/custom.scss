@@ -1,7 +1,7 @@
 @use "./base.scss";
 
 /* Light mode only */
-[data-theme="light"] body {
+[data-theme="light"] {
   --bg: #ffffff !important; /* white background */
   --fg: #172c66 !important; /* optional: adjust text color for contrast */
 }
