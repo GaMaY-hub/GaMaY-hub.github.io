@@ -20,8 +20,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-/* put custom.css in static does this work?*/
-    customCss: ["styles/custom.css"],
+/* put custom css in the scss file, chatGPT said to do this, idk if it will work*/
+    customCss: ["styles/custom.scss"],
     locale: "en-US",
     baseUrl: "https://gamay-hub.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
