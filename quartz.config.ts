@@ -25,8 +25,8 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      /* put custom css in the scss file, unsure whether square brackets are needed or not */
-      customCss: "styles/custom.scss", 
+      /* put custom css in the scss file */
+      /* customCss: "styles/custom.scss", */
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
