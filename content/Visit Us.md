@@ -1,8 +1,7 @@
 ---
-title: Visit Us
+title: Visiting the GaMaY Hub
 tags:
 ---
-# Visiting the GaMaY Hub
 ## Where we are
 The GaMaY Hub is located in the Lassonde Research Centre (LRC) at York University is located at 4751 Keele St, is shown here on [Google Maps](https://goo.gl/maps/7d7t1vYWjBLQrrjL8).   
 LRC is open to visitors.  Please present yourself to the front reception area and the security staff will direct you to your host.  
