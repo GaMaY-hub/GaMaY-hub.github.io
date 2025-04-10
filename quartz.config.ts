@@ -11,6 +11,9 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+      /* put custom css in the scss file */
+      /* customCss: "styles/custom.scss", */
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "",
@@ -25,8 +28,6 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      /* put custom css in the scss file */
-      /* customCss: "styles/custom.scss", */
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
