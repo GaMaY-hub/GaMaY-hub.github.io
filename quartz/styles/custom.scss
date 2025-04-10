@@ -1,3 +1,5 @@
+@use "./base.scss";
+
 /* Light mode only */
 [data-theme="light"] body {
   background-color: #fef6e4 !important; /* soft beige background */

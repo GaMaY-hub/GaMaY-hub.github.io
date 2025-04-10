@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
 /* put custom css in the scss file, chatGPT said to do this, idk if it will work*/
-/*    customCss: "styles/custom.scss", */
+    customCss: "styles/custom.scss", 
     locale: "en-US",
     baseUrl: "https://gamay-hub.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
