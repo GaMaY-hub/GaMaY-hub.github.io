@@ -12,4 +12,6 @@ The front reception area is open during standard business hours. Visitors are as
 **By RideShare Service:** details to be posted soon (starting June 2025).
 ## Visiting from Off Campus
 **By Subway:** Take the TTC Line 1 (Yonge-University) to York University Station. Travel from the subway to the LRC (approx 8 minute walk). [Directions via Google Map](https://goo.gl/maps/5ZYxAvgyLSZ3v5m2A)  
-**By Car:** Use the available visitor paid parking spots. York University uses the [Honk mobile app](https://www.yorku.ca/parking/honk-mobile-app/) for parking payment.  
+**By Car:** Use the available visitor paid parking spots. York University uses the [Honk mobile app](https://www.yorku.ca/parking/honk-mobile-app/) for parking payment.   
+
+hello there
