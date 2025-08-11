@@ -11,6 +11,7 @@ The GaMaY Hub is located in the Lassonde Research Centre (LRC), in the [Departme
 ## Faculty members:
 - [Melanie Baljko](https://lassonde.yorku.ca/users/mb)
 - [Petros Faloutsos](https://lassonde.yorku.ca/users/pfal)
+- [Emily Kuang](https://emilykuang.github.io/)
 - [Matt Kyan](https://lassonde.yorku.ca/users/mkyan)
 - [Sana Maqsood](https://lassonde.yorku.ca/users/smaqsood)
 - [Kiemute Oyibo](https://lassonde.yorku.ca/users/koyibo/)
