@@ -19,6 +19,7 @@ The GaMaY Hub is located in the Lassonde Research Centre (LRC), in the [Departme
 - [Vassilios Tzerpos](https://lassonde.yorku.ca/users/bil/)
 ## Research Labs and Initiatives:
 - [Audio Processing Techniques Lab at York (APTLY)](Hub%20Entities/APTLY.md)
+- [COCOA (CO-designing COllaborations with AI) Lab](Hub%20Entities/COCOA%20(CO-designing%20COllaborations%20with%20AI)%20Lab.md)
 - [Computer Graphics Lab @ GaMaY](Hub%20Entities/Computer%20Graphics.md)
 - [Engineering Education Sandbox](Hub%20Entities/Engineering%20Education%20Sandbox.md)
 - [Immersive Computing Lab @ GaMaY](Hub%20Entities/Immersive%20Computing.md)
